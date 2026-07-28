@@ -1,0 +1,6 @@
+{
+  "name": "Modul Interaktif Panitia Seni Visual SMK Sepagaya",
+  "description": "Modul Interaktif Panitia Seni Visual SMK Sepagaya KSSM SPM merangkumi 700 soalan kuiz interaktif, skema jawapan dan analisis prestasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
